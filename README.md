@@ -1,3 +1,5 @@
+[Português](./README.PT.md) | [Español](./README.ES.md) | English
+
 # DFM
 DFM is the paradigm to which projects and motions for resolutions of Drayker are built.
 
@@ -13,4 +15,7 @@ The distributed function modularization / modeling protocol is the basis of stru
 - Agile development is evolutionary
 - Worldwide Collaboration
 - International community, local outbreaks
+
+
+
 

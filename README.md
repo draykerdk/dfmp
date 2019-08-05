@@ -28,5 +28,5 @@ The validation process should go hand in hand with the development process, idea
 In the DFM protocol, the collaboration is based on:
 - Modeling and modularization of an issue to be solved, defining the initial strategy in a Bayesian model.
 - Partitioning and fragmentation of the problem, forming small functions.
-- Distribution of functions among employees, through decentralized peer review.
+- Distribution of functions among collaborator, through decentralized peer review.
 

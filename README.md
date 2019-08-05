@@ -30,4 +30,4 @@ In the DFM protocol, the collaboration is based on:
 - Partitioning and fragmentation of the problem, forming small functions.
 - Distribution of functions among employees, through decentralized peer review.
 
-[Wiki - beta](./wiki)
+[Wiki - beta](.https://github.com/draykerdk/DFMP/wiki)

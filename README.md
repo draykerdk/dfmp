@@ -29,3 +29,5 @@ In the DFM protocol, the collaboration is based on:
 - Modeling and modularization of an issue to be solved, defining the initial strategy in a Bayesian model.
 - Partitioning and fragmentation of the problem, forming small functions.
 - Distribution of functions among employees, through decentralized peer review.
+
+[Wiki - beta](./draykerdk/DFMP/wiki)

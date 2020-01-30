@@ -12,4 +12,8 @@
 # 
 #
 
-Title: 'DFMP'
+# Title of your website
+title: 'DFMP'
+
+# The slogan describes your website and is used on homepage in <title> and other important places
+slogan: 'Distributed functions modeling protocol'

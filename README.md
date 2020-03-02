@@ -21,7 +21,7 @@ The distributed function modularization / modeling protocol is the basis of stru
 
 ![dfmpmap.jpg](https://cdn.steemitimages.com/DQmSJ453tAwPZ2wQZDK4fGFmjrCcab1aKQpeDXK3ESfz1ei/dfmpmap.jpg)
 
-### The protocol should ensure that papers created from it are highly valued and reassessed.
+### The protocol must ensure that papers created from it are self-assessed, validated and re-evaluated.
 
 The validation process should go hand in hand with the development process, ideas should be discussed with communities and councils, transformed into a comprehensive, detailed, widely discussed and revised paper that will go through the DAOs and / or councils depending on their purpose . All ideas, goals and purposes must be in line with Drayker.
 

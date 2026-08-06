@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dfmp.drayker.org/sitemap.xml

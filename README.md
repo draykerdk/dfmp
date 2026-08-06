@@ -1,32 +1,44 @@
-[Português](./README.PT.md) | [Español](./README.ES.md) | English
+DFM is the paradigm Drayker's projects and motions for resolution are built with. It exists to answer one question: how do thousands of people who have never met work on the same problem without a manager standing between them?
 
-# DFM
-DFM is the paradigm to which projects and motions for resolutions of Drayker are built.
+The answer is to stop distributing tasks and start distributing **functions** — pieces small enough that one person can finish one, and defined enough that the result composes with the rest.
 
-# DFM Protocol -
+## The method
 
-Modeling, structure functions, distribution and construct. 
+1. **Model** — the issue is modelled and modularized, with the initial strategy expressed as a Bayesian model. Before any code, what is known, what is assumed, and what would change the strategy are written down.
+2. **Fragment** — the problem is partitioned into small functions.
+3. **Distribute** — functions are distributed among collaborators through decentralized peer review. Nobody is assigned work; contributors claim what matches their skill.
+4. **Review** — ideas are discussed with communities and councils and turned into a comprehensive, widely revised paper. Validation runs *alongside* development, not after it.
+5. **Legitimate** — once legitimated, a pull request goes through the community review branch to be legitimized for master. Updates to a paper travel first through the branch of that paper's validation status.
 
-The distributed function modularization / modeling protocol is the basis of structured collaboration in Drayker, with different interpretations for different types of projects.
+The protocol adapts to different kinds of project, but the logic does not change.
 
-- Simplicity and Cleanliness
+## Principles
+
+- Simplicity and cleanliness
 - Automation
-- Relation and Documentation
+- Relation and documentation
 - Agile development is evolutionary
-- Worldwide Collaboration
-- International community, local outbreaks
+- Worldwide collaboration
+- International community, local emergence
 
+## DFMP — the proposal process
 
-# DFMP
+DFMP is the path a proposal takes from an idea to a legitimated paper. The protocol has to ensure that papers created from it are self-assessed, validated and re-evaluated. Before entering the approval process, a paper must have been presented to the community through the issues and widely discussed. All goals and purposes must be in line with Drayker.
 
-![dfmpmap.jpg](https://cdn.steemitimages.com/DQmSJ453tAwPZ2wQZDK4fGFmjrCcab1aKQpeDXK3ESfz1ei/dfmpmap.jpg)
+[`dfmpp/`](./dfmpp) holds the proposals themselves.
 
-### The protocol must ensure that papers created from it are self-assessed, validated and re-evaluated.
+## State of this documentation
 
-The validation process should go hand in hand with the development process, ideas should be discussed with communities and councils, transformed into a comprehensive, detailed, widely discussed and revised paper that will go through the DAOs and / or councils depending on their purpose . All ideas, goals and purposes must be in line with Drayker.
+The method and the proposal path are written down. **[DFMP-000](./dfmpp/dfmp-000-dfmp-proposal-process.md), the paper that should specify the proposal process itself, is currently a title and nothing more.** Writing it is the most useful thing anyone could contribute here, and it does not require permission — open an issue with the draft.
 
-In the DFM protocol, the collaboration is based on:
-- Modeling and modularization of an issue to be solved, defining the initial strategy in a Bayesian model.
-- Partitioning and fragmentation of the problem, forming small functions.
-- Distribution of functions among collaborator, through decentralized peer review.
+## Contributing
 
+Open an issue in this repository. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/#org/fn).
+
+Related: [`dfmpproject`](https://github.com/draykerdk/dfmpproject) (proposing a project through DFM) · [`metadfmp`](https://github.com/draykerdk/metadfmp) (modeling the method itself) · [`dknowledge`](https://dknowledge.drayker.org) (papers and roadmap).
+
+Other languages: [Português](./README.PT.md) · [Español](./README.ES.md) — both currently behind this English version.
+
+---
+
+Drayker is organized through DFMP and its resources are governed by the non-profit [DAF](https://daf.drayker.org). The work is primarily voluntary. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

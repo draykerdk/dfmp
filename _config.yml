@@ -1,19 +1,20 @@
-#
-#  ____                            __                      
-# /\  _`\                         /\ \                     
-# \ \ \/\ \  _ __    __     __  __\ \ \/'\      __   _ __  
-#  \ \ \ \ \/\`'__\/'__`\  /\ \/\ \\ \ , <    /'__`\/\`'__\
-#   \ \ \_\ \ \ \//\ \L\.\_\ \ \_\ \\ \ \\`\ /\  __/\ \ \/ 
-#    \ \____/\ \_\\ \__/.\_\\/`____ \\ \_\ \_\ \____\\ \_\ 
-#     \/___/  \/_/ \/__/\/_/ `/___/> \\/_/\/_/\/____/ \/_/ 
-#                               /\___/                     
-#                               \/__/                      
-#
-# 
-#
+# The Drayker documentation theme — one layout shared by every *.drayker.org site.
+# Source: https://github.com/draykerdk/drayker-theme
+remote_theme: draykerdk/drayker-theme
 
-# Title of your website
-title: 'DFMP'
+plugins:
+  - jekyll-remote-theme
+  - jekyll-optional-front-matter
 
-# The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Distributed functions modeling protocol'
+title: DFMP
+description: The distributed function modularization / modeling protocol — the paradigm Drayker's projects and motions for resolution are built with.
+
+dk_kicker: Protocol
+dk_subdomain: dfmp.drayker.org
+dk_repo: https://github.com/draykerdk/dfmp
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

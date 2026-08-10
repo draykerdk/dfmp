@@ -1,0 +1,31 @@
+schema_version: 1
+component:
+  id: dfmp
+  name: DFMP
+  layer: PROTOCOL
+  artifact_type: protocol
+  problem: Make complex collaborative work enterable through small functions that remain connected to a shared model.
+  scope:
+    - Public description of the DFM method and DFMP proposal path.
+    - Proposals and discussion for formalizing that method.
+  non_scope:
+    - An operational decentralized approval system.
+    - A separate community-review branch or mandatory council gate in the founding phase.
+  dependencies:
+    - metadfmp
+  implementation:
+    level: none
+    scope: The method is described, while DFMP-000 and the complete proposal protocol remain unspecified.
+    evidence:
+      - type: document
+        ref: README.md
+  risks:
+    - Aspirational process language may be interpreted as enforced governance.
+    - Missing proposal details can produce inconsistent contribution paths.
+  contributions:
+    availability: open
+    entrypoint: https://github.com/draykerdk/dfmp/issues
+  source_of_truth:
+    repository: https://github.com/draykerdk/dfmp
+    path: README.md
+  last_reviewed: "2026-08-10"

@@ -41,4 +41,4 @@ Other languages: [Português](./README.PT.md) · [Español](./README.ES.md) — 
 
 ---
 
-Drayker is organized through DFMP and its resources are governed by the non-profit [DAF](https://daf.drayker.org). The work is primarily voluntary. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+DFMP and [DAF](https://daf.drayker.org) describe proposed collaboration and governance architecture. Drayker's current founding-phase governance is documented in [`draykerdk/.github`](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md), and the work is primarily voluntary. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

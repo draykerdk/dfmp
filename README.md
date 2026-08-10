@@ -8,7 +8,7 @@ The answer is to stop distributing tasks and start distributing **functions** �
 2. **Fragment** — the problem is partitioned into small functions.
 3. **Distribute** — functions are distributed among collaborators through decentralized peer review. Nobody is assigned work; contributors claim what matches their skill.
 4. **Review** — ideas are discussed with communities and councils and turned into a comprehensive, widely revised paper. Validation runs *alongside* development, not after it.
-5. **Legitimate** — once legitimated, a pull request goes through the community review branch to be legitimized for master. Updates to a paper travel first through the branch of that paper's validation status.
+5. **Integrate** — a contribution is proposed in an issue, developed on its own branch and submitted as a pull request to `master`. Automated checks and public discussion preserve traceability. During the founding phase, `Hyadhuad` may also integrate directly under the organization governance policy.
 
 The protocol adapts to different kinds of project, but the logic does not change.
 

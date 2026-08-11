@@ -2,6 +2,12 @@ DFM is the paradigm Drayker's projects and motions for resolution are built with
 
 The answer is to stop distributing tasks and start distributing **functions** — pieces small enough that one person can finish one, and defined enough that the result composes with the rest.
 
+## Why this exists
+
+Drayker is a way of working where people keep creating, discovering and learning while intelligence carries the rest, and what results reaches the work that produced it. DFM is the method half: how a problem becomes functions that people who have never met can each finish a piece of.
+
+The argument in full is on the [manifesto](https://drayker.org/manifesto/); the [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
+
 ## The method
 
 1. **Model** — the issue is modelled and modularized, with the initial strategy expressed as a Bayesian model. Before any code, what is known, what is assumed, and what would change the strategy are written down.
@@ -33,7 +39,7 @@ The method and the proposal path are written down. **[DFMP-000](./dfmpp/dfmp-000
 
 ## Contributing
 
-Open an issue in this repository. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/#org/fn).
+Open an issue in this repository. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/fn/).
 
 Related: [`dfmpproject`](https://github.com/draykerdk/dfmpproject) (proposing a project through DFM) · [`metadfmp`](https://github.com/draykerdk/metadfmp) (modeling the method itself) · [`dknowledge`](https://dknowledge.drayker.org) (papers and roadmap).
 

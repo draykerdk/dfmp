@@ -33,6 +33,12 @@ DFMP is the path a proposal takes from an idea to a legitimated paper. The proto
 
 [`dfmpp/`](./dfmpp) holds the proposals themselves.
 
+## How it fits the whole
+
+The method is the first layer of the ecosystem, and every other layer runs on it.
+
+Drayker is designed so that thousands of strangers can work on one thing without a manager in the middle: any issue is broken into functions small enough for one person — or one agent — to finish, and the [Dk](https://dk.drayker.org) distributes them by profile. The same vocabulary of functions and modules is the language the [BSDK](https://bsdk.drayker.org) base structure is proposed in. Meta DFM formalizes the method itself and the notation its papers use. Validation runs through the [councils](https://advices.drayker.org); the [Academy](https://academy.drayker.org) shapes formation to the functions; [Dknowledge](https://dknowledge.drayker.org) keeps the papers traceable; and [DAF](https://daf.drayker.org) is the governance that the same proposals feed into. The method is the one part genuinely in use today — which is the whole point of starting there.
+
 ## State of this documentation
 
 The method and the proposal path are written down. **[DFMP-000](./dfmpp/dfmp-000-dfmp-proposal-process.md), the paper that should specify the proposal process itself, is currently a title and nothing more.** Writing it is the most useful thing anyone could contribute here, and it does not require permission. Open an issue with the draft.

@@ -1,10 +1,18 @@
-DFM is the paradigm Drayker's projects and motions for resolution are built with. It exists to answer one question: how do thousands of people who have never met work on the same problem without a manager standing between them?
+> Turn a shared problem into work people can deliver.
 
-The answer is to stop distributing tasks and start distributing **functions**: pieces small enough that one person or one agent can finish one, and defined enough that the result composes with the rest. Sharing a functional interface does not make people and agents constitutionally equivalent; responsibility, consent and governance remain human.
+DFM is the method proposed for organising work as connected functions and modules. DFMP is the public path for developing that method and examining how it works.
+
+A function states a purpose, the context it needs and the result others can evaluate. Related functions form modules that remain connected to the larger objective.
+
+Well-defined work makes participation more accessible and helps collaborators retain responsibility for the quality and direction of what they build.
+
+## A practical example
+
+A contributor could take one documented modelling task, publish the result and show how it changes the module that depends on it. This is an illustration of the proposed design.
 
 ## Why this exists
 
-Drayker is a way of working where people keep creating, discovering and learning while intelligence carries the rest, and what results reaches the work that produced it. DFM is the method half: how a problem becomes functions that people who have never met can each finish a piece of.
+DFM is the method half: how a problem becomes functions that people who have never met can each finish a piece of.
 
 The argument in full is on the [manifesto](https://drayker.org/manifesto/). The [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
 

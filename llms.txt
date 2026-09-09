@@ -1,6 +1,6 @@
 # DFMP
 
-> Distributed Functional Modeling — the paradigm Drayker's projects and motions for resolution are built with.
+> DFM is the method proposed for organising work as connected functions and modules. DFMP is the public path for developing that method and examining how it works.
 
 DFMP is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
 

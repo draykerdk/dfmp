@@ -13,7 +13,7 @@ plugins:
   - jekyll-sitemap
 
 title: "DFMP"
-description: "Distributed Functional Modeling — the paradigm Drayker's projects and motions for resolution are built with."
+description: "Turn a shared problem into work people can deliver. DFM is the method proposed for organising work as connected functions and modules. DFMP is the public path for developing that method and examining how it works."
 
 dk_kicker: "Protocol"
 dk_subdomain: "dfmp.drayker.org"

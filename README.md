@@ -57,7 +57,7 @@ Open an issue in this repository. Issues small enough for one person to finish c
 
 Related: [`dfmpproject`](https://github.com/draykerdk/dfmpproject) (proposing a project through DFM) · [`metadfmp`](https://github.com/draykerdk/metadfmp) (modeling the method itself) · [`dknowledge`](https://dknowledge.drayker.org) (papers and roadmap).
 
-Other languages: [Português](./README.PT.md) · [Español](./README.ES.md). Both currently behind this English version.
+English is the canonical language of this documentation; read other languages through automatic translation. Native translation and localization are planned for the Drayker sites.
 
 ---
 

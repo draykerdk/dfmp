@@ -35,6 +35,22 @@ The protocol adapts to different kinds of project, but the logic does not change
 - Worldwide collaboration
 - International community, local emergence
 
+## Science inside DFM
+
+DFM can be used with different methodologies. Combined with the scientific method, it helps build a paper and works as a validator and optimizer of hypotheses.
+
+The path starts with a question to be answered. Then come hypotheses about the question and its solutions. The hypotheses are elaborated, evaluated and revised, and the weight of their claims is measured: how well supported and validated they are. From them an adaptive, Bayesian theory is built that integrates the hypotheses and keeps being improved and revised as evidence accumulates and whenever it is falsified.
+
+In DFM, **hypotheses are functions and theories are modules**. Modular sets of theories let the system be validated and evolved in layers. A theory that no longer describes new data and situations is replaced without compromising the whole system, in an evolutionary scheme similar to the biological one, but continuous and directed toward optimizing purposes and extrapolating to the new.
+
+The D, distributed, stands for data systems and claims based on proof: a reliable environment where these theories, that is, modules, run in a distributed way and feed back into each other. Each module and function plays a part in validating and testing the strength of the others.
+
+## What a resolution paper contains
+
+Before a project is developed, it needs a paper, reviewed and approved by peers. The paper contains all the logic involved and its mathematical demonstration. The functions are well specified within its scope, and implementation and architecture are kept as simple and redundant as possible.
+
+Each function needs a precise description and, above all, an account of error and attack: proposed attacks and a real mathematical proof that it works. A paper may reuse functions from other papers. The modules that integrate the functions keep the simplest possible architecture and are reviewed and catalogued extensively in the documentation, with a structure that stays evolutionarily compatible.
+
 ## DFMP · the proposal process
 
 DFMP is the path a proposal takes from an idea to a legitimated paper. The protocol has to ensure that papers created from it are self-assessed, validated and re-evaluated. Before entering the approval process, a paper must have been presented to the community through the issues and widely discussed. All goals and purposes must be in line with Drayker.

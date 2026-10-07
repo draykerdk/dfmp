@@ -22,7 +22,7 @@ The argument in full is on the [manifesto](https://drayker.org/manifesto/). The 
 2. **Fragment**. The problem is partitioned into small functions.
 3. **Distribute**. Functions are distributed among collaborators through decentralized peer review. Nobody is assigned work. Contributors claim what matches their skill.
 4. **Review**. Ideas are discussed with communities and councils and turned into a comprehensive, widely revised paper. Validation runs *alongside* development, not after it.
-5. **Integrate**. A contribution is proposed in an issue, developed on its own branch and submitted as a pull request to `master`. Automated checks and public discussion preserve traceability. During the founding phase, `Hyadhuad` may also integrate directly under the organization governance policy.
+5. **Integrate**. A contribution is proposed in an issue, developed on its own branch and submitted as a pull request to `master`. Automated checks and public discussion preserve traceability. During the founding phase, `Hyadhuad` may also integrate directly under the founding-phase governance policy.
 
 The protocol adapts to different kinds of project, but the logic does not change.
 
@@ -77,4 +77,4 @@ English is the canonical language of this documentation; read other languages th
 
 ---
 
-DFMP and [DAF](https://daf.drayker.org) describe proposed collaboration and governance architecture. Drayker's current founding-phase governance is documented in [`draykerdk/.github`](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md), and the work is primarily voluntary. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+DFMP is the documented proposal method, and [DAF](https://daf.drayker.org) is an autonomous federation of autonomous units, a basic and primitive form of PAP, implemented now. Drayker's current founding-phase governance is documented in [`draykerdk/.github`](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md), and the work is primarily voluntary. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

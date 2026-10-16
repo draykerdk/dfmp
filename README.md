@@ -20,7 +20,7 @@ The argument in full is on the [manifesto](https://drayker.org/manifesto/). The 
 
 1. **Model**. The issue is modelled and modularized, with the initial strategy expressed as a Bayesian model. Before any code, what is known, what is assumed, and what would change the strategy are written down.
 2. **Fragment**. The problem is partitioned into small functions.
-3. **Distribute**. Functions are distributed among collaborators through decentralized peer review. Nobody is assigned work. Contributors claim what matches their skill.
+3. **Distribute**. Functions are distributed among collaborators through distributed review. Nobody is assigned work. Contributors claim what matches their skill.
 4. **Review**. Ideas are discussed with communities and councils and turned into a comprehensive, widely revised paper. Validation runs *alongside* development, not after it.
 5. **Integrate**. A contribution is proposed in an issue, developed on its own branch and submitted as a pull request to `master`. Automated checks and public discussion preserve traceability. During the founding phase, `Hyadhuad` may also integrate directly under the founding-phase governance policy.
 

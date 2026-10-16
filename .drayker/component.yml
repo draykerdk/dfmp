@@ -9,7 +9,7 @@ component:
     - Public description of the DFM method and DFMP proposal path.
     - Proposals and discussion for formalizing that method.
   non_scope:
-    - An operational decentralized approval system.
+    - An operational distributed approval system.
     - A separate community-review branch or mandatory council gate in the founding phase.
   dependencies:
     - metadfmp
@@ -28,4 +28,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/dfmp
     path: README.md
-  last_reviewed: "2026-10-07"
+  last_reviewed: "2026-10-16"

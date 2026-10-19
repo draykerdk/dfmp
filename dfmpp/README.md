@@ -1,5 +1,5 @@
 # DFMP
-## DFM Protocol proposal
+## DFM proposal process
 
 [Proposal 000](./dfmp-000-dfmp-proposal-process.md) presents how papers of proposals for resolution and improvement for the main projects can be created.
 

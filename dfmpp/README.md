@@ -9,4 +9,4 @@ In the current founding phase, a paper is discussed in a public issue, developed
 
 
 
-[Why do we use DFM?](https://steemit.com/drayker/@drayker/why-do-we-use-dfm-in-almost-everything-at-drayker)
+[Why do we use DFM?](https://dfmp.drayker.org/#why-this-exists)

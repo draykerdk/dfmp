@@ -2,6 +2,8 @@
 
 DFM is the method proposed for organising work as connected functions and modules. DFMP is the public path for developing that method and examining how it works.
 
+DFM divides a problem into complementary functions, shows natively what each one does and why it exists, and distributes them among people and agents: the function as the unit, distribution as the dynamic, and the same model repeated at every scale.
+
 A function states a purpose, the context it needs and the result others can evaluate. Related functions form modules that remain connected to the larger objective.
 
 Well-defined work makes participation more accessible and helps collaborators retain responsibility for the quality and direction of what they build.
@@ -61,7 +63,7 @@ DFMP is the path a proposal takes from an idea to a legitimated paper. The proto
 
 The method is the first layer of the ecosystem, and every other layer runs on it.
 
-Drayker is designed so that thousands of strangers can work on one thing without a manager in the middle: any issue is broken into functions small enough for one person or one agent to finish, and [Dk](https://dk.drayker.org) can help match them to context and capacity. The same vocabulary of functions and modules is the language the [BSDK](https://bsdk.drayker.org) base structure is proposed in. Operational symmetry stops there: members remain responsible for consent, review and constitutional decisions, through the constitutional procedure, built with Dk Global and within the kernel. Meta DFM formalizes the method itself; [councils](https://advices.drayker.org) are designed for validation; the [Academy](https://academy.drayker.org) connects formation to functions; [Dknowledge](https://dknowledge.drayker.org) keeps the papers traceable; and [DAF](https://daf.drayker.org) is a transitional governance scaffold the same proposals can feed into. The method is the one part genuinely in use today — which is the whole point of starting there.
+Drayker is designed so that thousands of strangers can work on one thing without a manager in the middle: any issue is broken into functions small enough for one person or one agent to finish, and [Dk](https://dk.drayker.org) can help match them to context and capacity. The same vocabulary of functions and modules is the language the [BSDK](https://bsdk.drayker.org) base structure is proposed in. Operational symmetry stops there: members remain responsible for consent, review and constitutional decisions, through the constitutional procedure, built with Dk Global and within the kernel. Meta DFM formalizes the method itself; [councils](https://advices.drayker.org) are designed for validation; the [Academy](https://academy.drayker.org) connects formation to functions; [Dknowledge](https://dknowledge.drayker.org) keeps the papers traceable; and [DAF](https://daf.drayker.org) is a transitional governance scaffold the same proposals can feed into. In the durable member constitution, DFMP remains the path by which any member's proposal is examined before it becomes a rule, and a well-justified proposal obliges Dk Global to revise the decision it concerns. The method is the one part genuinely in use today — which is the whole point of starting there.
 
 ## State of this documentation
 

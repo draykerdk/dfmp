@@ -1,8 +1,8 @@
 > Turn a shared problem into work people can deliver.
 
-DFM is the method proposed for organising work as connected functions and modules. DFMP is the public path for developing that method and examining how it works.
+DFM, Distributed Functional Modeling, is the method proposed for organising work as connected functions and modules. DFMP is the process by which proposals go through discussion, validation and reassessment before becoming resolutions, and the public path for developing that method and examining how it works.
 
-DFM divides a problem into complementary functions, shows natively what each one does and why it exists, and distributes them among people and agents: the function as the unit, distribution as the dynamic, and the same model repeated at every scale.
+DFM is a method for modelling problems, breaking them into functions, distributing those functions, reviewing results and integrating them, showing natively what each function does and why it exists. It divides a problem into complementary functions and distributes them among people and agents. It is the structure of the theory of symbolic networks made into method: the function as the unit, distribution as the dynamic, and the model in scales, built on purpose.
 
 A function states a purpose, the context it needs and the result others can evaluate. Related functions form modules that remain connected to the larger objective.
 
